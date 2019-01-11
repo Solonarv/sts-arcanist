@@ -1,10 +1,10 @@
 {
   "modid": "arcanist",
   "name": "The Arcanist",
-  "description": "Adds a new character, the Arcanist, who fights using various barriers.",
-  "version": "0.1.0",
-  "sts_version": "",
-  "mts_version": "2.6.0",
   "author_list": ["Solonarv"],
+  "description": "Adds a new character who fights using a many-layered barrier.",
+  "version": "1.0",
+  "sts_version": "10-25-2018",
+  "mts_version": "3.5.0",
   "dependencies": ["basemod", "stslib"]
 }
